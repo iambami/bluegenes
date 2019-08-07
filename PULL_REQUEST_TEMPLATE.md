@@ -18,5 +18,6 @@ Checked the following pages load results successfully and allow you to proceed t
 - [ ] Report page loads, including homologues and tools
 - [ ] Region search
 - [ ] Login and logout works for more than one user (use test user demo@intermine.org pw demo if needed)
+- [ ] Lists can be saved anonymously. 
 
 This is not an exhaustive list - if you spot something else strange please bring it up!
